@@ -24,6 +24,10 @@ function App() {
           <div>Count: {count}</div>
         </CardContent>
       </Card>
+      <footer className="footer">
+        <p>© 2023 Sneaker Accounting. All rights reserved.</p>
+        <a href="/privacy-policy">Privacy Policy</a>
+      </footer>
     </>
   );
 }
